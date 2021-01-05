@@ -1,0 +1,23 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+h1{
+    font-size: 50;
+}
+.color{
+    color: chartreuse;
+}
+h3{
+    color: chartreuse;
+}
+.first-half{
+    width: 38%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.first-half image{
+    height: 50px;
+    width: 50px;
+
+}
